@@ -5,7 +5,7 @@
 
 ### currency.symbolize(ISOCode)
 
-```node
+```js
 > currency = require('./currency.js')
 > currency.symbolize("USD")
 '$'
