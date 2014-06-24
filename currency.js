@@ -5,7 +5,7 @@
  * JavaScript library for to convert currency ISO code into a readable currency symbol
  *
  * Freely distributable under the MIT license.
- * Data are initiality taken from the http://github.comRubyMoney/money project
+ * Data are initiality taken from the http://github.com/RubyMoney/money project
  *
  */
 (function(root, undefined) {
