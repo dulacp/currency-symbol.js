@@ -1,12 +1,12 @@
 {
-	"name" : "currency",
+	"name" : "currency-symbol.js",
 	"description" : "currency symbols library",
-	"homepage": "http://github.com/dulaccc/accounting.js",
+	"homepage": "http://github.com/dulaccc/currency-symbol.js",
 	"keywords" : ["currency", "money", "symbol"],
-	"author": "Pierre Dulac <dulacpier@gmail.com> (http://dulaccc.me)",
+	"author": "Pierre Dulac <pierre@dulaccc.me> (http://dulaccc.me)",
 	"contributors" : [],
 	"dependencies" : {},
-	"repository" : {"type": "git", "url": "git://github.com/dulaccc/currency.js.git"},
+	"repository" : {"type": "git", "url": "git://github.com/dulaccc/currency-symbol.js.git"},
 	"main" : "currency.js",
-	"version" : "0.0.1"
+	"version" : "0.1.0"
 }
