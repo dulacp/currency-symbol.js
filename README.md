@@ -26,4 +26,8 @@
 
 ## Changelog
 
-**v0.0.1** - First version is out !
+**v1.0.0**
+- Add missing symbols supported by openexchangerates (thanks to @nsue)
+
+**v0.0.1** 
+- First version is out !
